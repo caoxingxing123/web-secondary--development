@@ -1,0 +1,17 @@
+{
+  "id": "17364516-8468-4dda-93c2-4940200365d9",
+  "type": "data-form-list",
+  "main": "main.20548cea.js",
+  "version": "2",
+  "configuration": true,
+  "props": {
+    "type": "customize",
+    "img": "APP_0001.png",
+    "name": "dsadq",
+    "loadStyle": 0,
+    "lib": [],
+    "css_script": []
+  },
+  "requirement-number": "SR-W3-Fkuw1V",
+  "requirement-name": "二开复杂banner"
+}
