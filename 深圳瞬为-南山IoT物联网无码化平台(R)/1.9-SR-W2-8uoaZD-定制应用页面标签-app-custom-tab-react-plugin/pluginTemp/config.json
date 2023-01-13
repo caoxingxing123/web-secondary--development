@@ -1,0 +1,14 @@
+{
+  "id": "f37be58a-9557-4682-9e13-572c5a07e8c0",
+  "type": "app_custom_tabs",
+  "main": "main.73bd4fc2.js",
+  "version": "2",
+  "props": {
+    "type": "customize",
+    "name": "custom tabs",
+    "loadStyle": 0,
+    "lib": [],
+    "css_script": [],
+    "customconf": []
+  }
+}

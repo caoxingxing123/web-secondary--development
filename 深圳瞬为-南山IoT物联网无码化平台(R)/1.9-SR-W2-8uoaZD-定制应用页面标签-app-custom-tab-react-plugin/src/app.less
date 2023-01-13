@@ -1,0 +1,61 @@
+.infoCard {
+   width: 24%;
+   min-width: 260px;
+   border-radius: 16px !important;
+   padding: 2vw !important;
+   .ant-card-head {
+      padding: 0;
+      .ant-card-head-title {
+         padding: 0;
+         .card-title {
+            color: white;
+            position: relative;
+            font-weight: bold;
+            font-size: 28px;
+            line-height: 39px;
+            z-index: 10;
+         }
+      }
+      .ant-card-extra {
+         padding: 0;
+      }
+   }
+   .ant-card-body {
+      padding: 0 !important;
+      .card-desc {
+         color: white;
+         position: relative;
+         font-size: 14px;
+         line-height: 20px;
+         color: #ffffffb3;
+         margin: 1vw 0;
+         z-index: 10;
+      }
+   }
+   .ant-btn-background-ghost {
+      border-color: #fff8;
+      width: 100px;
+   }
+   @media (max-width: 1680px) {
+      .card-title {
+         font-size: 26px;
+         line-height: 37px;
+      }
+   }
+}
+
+.right_menu {
+   position: absolute;
+   display: none;
+   border: 1px solid #f0f0f0;
+   z-index: 150;
+}
+
+#nskg_tabs {
+   .ant-tabs-tab-btn {
+      pointer-events: none;
+   }
+   .anticon {
+      pointer-events: none;
+   }
+}

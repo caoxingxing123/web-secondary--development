@@ -1,0 +1,42 @@
+{
+  "id": "438e31c9-cabf-44fd-a58e-a531e87a6397",
+  "type": "analyzer",
+  "main": "main.95b29cf0.js",
+  "version": "2",
+  "props": {
+    "img": "custom_table.png",
+    "type": "qoiwud23fo3",
+    "disableimg": "disabled_custom_table.png",
+    "name": "demo",
+    "process": true,
+    "domId": "ex_46fbe360-daa5-42af-8ca0-2ec3066ef216",
+    "lib": [],
+    "cssDep": [],
+    "scriptName": "main.b42fe2f5.js",
+    "vars": [
+      "柱形数据排列数据",
+      "背景颜色",
+      "图例元素间距",
+      "图例文字颜色",
+      "图例文字字号",
+      "X轴轴线颜色",
+      "X轴文字颜色",
+      "X轴文字字号",
+      "Y轴标题文字颜色",
+      "Y轴标题文字字号",
+      "Y轴标题位置",
+      "Y轴文字颜色",
+      "Y轴文字字号",
+      "折线颜色",
+      "折线Y轴最大值",
+      "折线拐点大小",
+      "折线拐点颜色",
+      "折线拐点边框大小",
+      "折线拐点边框颜色",
+      "辅助线颜色",
+      "柱形数据宽度",
+      "柱形数据颜色数组"
+    ],
+    "optionModules": []
+  }
+}
